@@ -1,3 +1,5 @@
+Here are my headers
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -5,4 +7,6 @@
 ##### Header 5
 ###### Header 6
 
-Here are my headers
+
+Here is my image
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
